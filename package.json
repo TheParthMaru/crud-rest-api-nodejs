@@ -1,0 +1,23 @@
+{
+  "name": "crud-rest-api-nodejs",
+  "version": "1.0.0",
+  "description": "CRUD REST API using Nodejs, Express and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheParthMaru/crud-rest-api-nodejs.git"
+  },
+  "author": "Parth Maru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheParthMaru/crud-rest-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/TheParthMaru/crud-rest-api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.1"
+  }
+}
